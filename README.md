@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
