@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0643-maximum-average-subarray-i](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1386-cinema-seat-allocation](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
