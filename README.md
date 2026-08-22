@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1386-cinema-seat-allocation](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -113,4 +114,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
