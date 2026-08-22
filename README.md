@@ -96,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0511-game-play-analysis-i) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
