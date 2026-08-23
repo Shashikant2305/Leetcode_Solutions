@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0649-dota2-senate) |
 | [1386-cinema-seat-allocation](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
@@ -127,8 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0649-dota2-senate) |
+| [1927-sum-game](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/1927-sum-game) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/0933-number-of-recent-calls) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Shashikant2305/Leetcode_Solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
